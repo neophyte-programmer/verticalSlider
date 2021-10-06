@@ -28,4 +28,4 @@ This was a relatively simple project and it didn't take me so long. I do intend 
 </a> <br>
 
 ## Check It Out
-Live Site URL: [Live Site]()
+Live Site URL: [Live Site](https://friendly-saha-cf1018.netlify.app/)

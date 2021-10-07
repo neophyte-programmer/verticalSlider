@@ -1,11 +1,11 @@
 # Vertical Slider
 
 ## Overview
-This is a webpage that display a background and a description side by side and allows the user to slide through the available pictures. The unique feature of this page is that
-in the sliding process, both divisions of the page, description and picture, move in opposite direction.
+This is a webpage that displays a background and a description side by side and allows the user to slide through the available pictures. The unique feature of this page is that
+in the sliding process, both divisions of the page, description and picture, move in opposite directions.
 
 ## Experience
-This was a relatively simple project and it didn't take me so long. I do intend on applying this concept in future webpages I create.
+This was a relatively simple project and it didn't take me so long. I do intend on applying this concept in future projects.
 
 ## Resources 
 ### Made using 
